@@ -8,7 +8,7 @@ public class HelloGit {
 		
 		// Hello, git!
 		// Commit
-		// Commit conflict test.
+		// test complete!
 		for(int i = 0;i < 100; i++)
 		{
 			System.out.println("i:" + i);
