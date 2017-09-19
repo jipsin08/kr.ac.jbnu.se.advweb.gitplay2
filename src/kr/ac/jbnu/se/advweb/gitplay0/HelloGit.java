@@ -7,7 +7,8 @@ public class HelloGit {
 		System.out.println("Hello Git!!???????????");
 		
 		// Hello, git!
-		// Commit and Push
+		// Commit
+		// Commit and push
 		for(int i = 0;i < 100; i++)
 		{
 			System.out.println("i:" + i);
