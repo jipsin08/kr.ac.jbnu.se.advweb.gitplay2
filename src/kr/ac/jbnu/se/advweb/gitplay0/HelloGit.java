@@ -12,7 +12,7 @@ public class HelloGit {
 		// test complete!
 		for(int i = 0;i < 100; i++)
 		{
-			System.out.println("i:" + i + "bbbbbbbbbbbb");
+			System.out.println("i:" + i + "bbbbbbbbbbb");
 		}
 		
 		System.out.println("This is a confliction test.");
