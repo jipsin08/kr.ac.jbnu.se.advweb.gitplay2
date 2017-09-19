@@ -12,11 +12,9 @@ public class HelloGit {
 		// test complete!
 		for(int i = 0;i < 100; i++)
 		{
-<<<<<<< HEAD
 			System.out.println("i:" + i + "bbbbbbbbbbb");
-=======
 			System.out.println("i:" + i + "aaaaaaaaaaa");
->>>>>>> refs/remotes/origin/master
+			System.out.println("i:" + i + "aaaaaaaaaaa");
 		}
 		
 		System.out.println("This is a confliction test.");
