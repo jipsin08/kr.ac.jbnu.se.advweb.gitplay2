@@ -6,5 +6,6 @@ public class HelloGit4 {
 		System.out.println("Hello Git!!");
 		
 		// how are you doing??
+		//커밋테스트 주석입니다.
 	}
 }
